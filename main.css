@@ -1,0 +1,13 @@
+.titulo {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.formulario {
+    margin-top: 25px;
+}
+
+button {
+    margin-top: 16px;
+}
